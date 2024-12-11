@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Krys Coleen Suizo
 - 👀 I’m interested in Graphic Design, Front-end Design and Web Developement
 - 💞️ I am actively seeking online opportunities to gain hands-on experience and deepen my knowledge in these fields.
-- 📫 How to reach me . You can contact me at kcsuizo@gmail.com or my contact no. 09187183566
+- 📫 How to reach me . You can contact me at kcsuizo@gmail.com
 - 😄 Pronouns: SHE
 - ⚡ Fun fact: I'm an enthusiast who loves singing. Although I'm an introvert, I enjoy engaging with people who are good listeners.
 <!---
